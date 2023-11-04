@@ -1,4 +1,4 @@
-<h1 align='center'>
+![image](https://github.com/enam007/enam007/assets/60033005/c66479c3-b5e5-41d1-9cbc-054a65ef8e8d)<h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hey%2C+I'm+Aamir.+You+are+welcome!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
 
@@ -117,15 +117,17 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   </a>
 
-  ## Projects:
+  ## 🚀 Projects:
 
 - **Food Villa**
   - Description: [Food Villa](https://github.com/enam007/FoodVilla) is an exciting project where I'm working on building a modern food delivery app.
-  - Technologies: React, Node.js, JavaScript, MongoDB
+  - Technologies: React, Redux, JavaScript, Parcel, Tailwind
+
 
 - **QuickTube**
-  - Description: [QuickTube](https://github.com/enam007/QuickTube) is a collaborative project I'm involved in. It's a YouTube video downloader and management tool.
-  - Technologies: React, Python, Web Scraping
+  - Description: [QuickTube](https://github.com/enam007/QuickTube) is an innovative YouTube video summarization tool that allows you to easily extract essential 
+      information from lengthy videos, helping you save time and stay informed.
+  - Technologies: React, Python, OpenAI, LLMs, GenarativeAI, Prompts
 
 <!--## 🏆 Trophies:-->
 
