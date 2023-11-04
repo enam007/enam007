@@ -1,4 +1,4 @@
-![image](https://github.com/enam007/enam007/assets/60033005/c66479c3-b5e5-41d1-9cbc-054a65ef8e8d)<h1 align='center'>
+<h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hey%2C+I'm+Aamir.+You+are+welcome!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
 
