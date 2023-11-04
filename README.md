@@ -117,6 +117,16 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   </a>
 
+  ## Projects:
+
+- **Food Villa**
+  - Description: [Food Villa](https://github.com/enam007/FoodVilla) is an exciting project where I'm working on building a modern food delivery app.
+  - Technologies: React, Node.js, JavaScript, MongoDB
+
+- **QuickTube**
+  - Description: [QuickTube](https://github.com/enam007/QuickTube) is a collaborative project I'm involved in. It's a YouTube video downloader and management tool.
+  - Technologies: React, Python, Web Scraping
+
 <!--## 🏆 Trophies:-->
 
 <!--<a href="https://github.com/ryo-ma/github-profile-trophy"></a>-->
